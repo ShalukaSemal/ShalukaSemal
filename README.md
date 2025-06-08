@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">👋 Hi there, I'm Shaluka Semal</h1>
+<h1 align="center">👋 Hi there, I'm Shaluka Semal, Full Stack Developer</h1>
 
 ###
 
